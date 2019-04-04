@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/keymanjacob/InhoomanReaction#readme",
   "dependencies": {
+    "@angular/cli": "^7.3.8",
     "bad-words": "^3.0.0",
+    "bootstrap": "^4.3.1",
     "express": "^4.16.4",
     "socket.io": "^2.2.0"
   },
